@@ -1,0 +1,66 @@
+QX 节点优选报告 — 2026-10-11 14:27:47
+耗时 623.2 秒
+公开源原始节点 14725 → 解析有效 9975 → 取样测速 1085 → 实测可用 106
+选中 60 条（HK 30、TW 1、JP 15、US 14）
+其中本轮实测 106 条，历史累积 0 条
+
+[HK]  417.6ms  vmess     zfd-hkv2.kunlun01dns.com:16112  HK01 香港417ms HK 🇭🇰 | @Raydikalx | 5
+[HK]  505.7ms  vmess     zfd-hkv1.kunlun01dns.com:16113  HK02 香港505ms HK 🇭🇰 | @Raydikalx | 6
+[HK]  673.3ms  vless     45.207.157.24:9443  HK03 香港673ms 🇭🇰 香港 | HKG
+[HK]  819.5ms  vmess     dog-hk.kunlun01dns.com:21020  HK04 香港819ms 未知 VMESS-378 | free-no
+[HK]  826.4ms  vmess     8.210.24.181:443  HK05 香港826ms HK 🇭🇰 | @Raydikalx | B
+[HK]  828.6ms  vmess     47.83.207.148:443  HK06 香港828ms HK 🇭🇰 | @Raydikalx | D
+[HK]  831.8ms  vmess     8.217.254.88:443  HK07 香港831ms HK 🇭🇰 | @Raydikalx | 3
+[HK]  889.3ms  vmess     6JDvArazgU3qQR6Q.v.3dns.vip:443  HK08 香港889ms 🇭🇰 香港 | HKG #3
+[HK]  890.8ms  vmess     dog-hk.kunlun01dns.com:21020  HK09 香港890ms 未知 VMESS-382 | free-no
+[HK]  897.1ms  vmess     ex1ogt73nzpqkac2.v.3dns.vip:443  HK10 香港897ms HK 🇭🇰 | @Raydikalx | 5
+[HK]  901.5ms  vmess     vah4urdzl3jdx5r2.v.3dns.vip:443  HK11 香港901ms HK 🇭🇰 | @Raydikalx | 5
+[HK]  922.2ms  vmess     156.245.232.239:35043  HK12 香港922ms 🇭🇰HK-156.245.232.239-0
+[HK]  948.2ms  vmess     156.245.232.239:35043  HK13 香港948ms HK 🇭🇰 | @Raydikalx | 5
+[HK] 1143.2ms  vmess     47.83.207.148:443  HK14 香港1143ms HK 🇭🇰 | @Raydikalx | B
+[HK] 1151.2ms  vmess     8.218.195.61:443  HK15 香港1151ms 🇭🇰HK-8.218.195.61-0657
+[HK] 1161.7ms  vmess     47.76.44.32:443  HK16 香港1161ms HK 🇭🇰 | @Raydikalx | 1
+[HK] 1185.1ms  vmess     vah4urdzl3jdx5r2.v.3dns.vip:443  HK17 香港1185ms HK 🇭🇰 | @Raydikalx | 1
+[HK] 1189.1ms  vmess     6jdvarazgu3qqr6q.v.3dns.vip:443  HK18 香港1189ms HK 🇭🇰 | @Raydikalx | 0
+[HK] 1210.9ms  vmess     i2psm3knof5qjjix.v.3dns.vip:443  HK19 香港1210ms HK 🇭🇰 | @Raydikalx | 2
+[HK] 1247.0ms  vmess     93ucrn4i0pffuabk.v.3dns.vip:443  HK20 香港1247ms HK 🇭🇰 | @Raydikalx | 0
+[HK] 1262.1ms  vmess     6jdvarazgu3qqr6q.v.3dns.vip:443  HK21 香港1262ms HK 🇭🇰 | @Raydikalx | B
+[HK] 1268.2ms  vmess     qtkdr8jxe3wefxjm.v.3dns.vip:443  HK22 香港1268ms 🇭🇰HK-8.217.13.103-0660
+[HK] 1275.5ms  vmess     hk2.998998.best:443  HK23 香港1275ms CA 🇨🇦 | @Raydikalx | 7
+[HK] 1298.2ms  vmess     vah4urdzl3jdx5r2.v.3dns.vip:443  HK24 香港1298ms HK 🇭🇰 | @Raydikalx | 2
+[HK] 1328.4ms  vmess     ex1ogt73nzpqkac2.v.3dns.vip:443  HK25 香港1328ms HK 🇭🇰 | @Raydikalx | 2
+[HK] 1332.8ms  vmess     ex1ogt73nzpqkac2.v.3dns.vip:443  HK26 香港1332ms HK 🇭🇰 | @Raydikalx | D
+[HK] 1391.1ms  vmess     47.243.153.153:443  HK27 香港1391ms 未知 VMESS-340 | free-no
+[HK] 1419.9ms  vmess     6JDvArazgU3qQR6Q.v.3dns.vip:443  HK28 香港1419ms HK 🇭🇰 | @Raydikalx | 1
+[HK] 1450.1ms  vmess     47.243.65.243:443  HK29 香港1450ms 🇭🇰HK-47.243.65.243-066
+[HK] 1450.6ms  vmess     8.218.195.61:443  HK30 香港1450ms HK 🇭🇰 | @Raydikalx | 7
+[TW]  418.2ms  vmess     165.154.195.38:35034  TW31 台湾418ms TW 🇹🇼 | @Raydikalx | 8
+[JP]  317.4ms  ss        149.22.87.240:443  JP32 日本317ms 🇯🇵JP-149.22.87.240-017
+[JP]  324.1ms  ss        149.22.87.204:443  JP33 日本324ms 🇯🇵JP-149.22.87.204-023
+[JP]  479.7ms  trojan    45.32.52.173:8886  JP34 日本479ms 🇯🇵JP-45.32.52.173-0487
+[JP]  484.6ms  trojan    promoted-rattler.rooster465.autos:443  JP35 日本484ms 🇯🇵JP-52.192.45.137-016
+[JP]  485.7ms  trojan    stable-python.rooster465.autos:443  JP36 日本485ms 🇯🇵JP-13.193.213.184-01
+[JP]  487.2ms  trojan    allowed-poodle.rooster465.autos:443  JP37 日本487ms 🇯🇵JP-13.114.99.222-047
+[JP]  490.6ms  trojan    amazed-mako.rooster465.autos:443  JP38 日本490ms 🇯🇵JP-18.183.167.216-01
+[JP]  490.7ms  trojan    optimal-penguin.rooster465.autos:443  JP39 日本490ms 🇯🇵JP-52.194.251.232-01
+[JP]  492.3ms  trojan    evident-ant.rooster465.autos:443  JP40 日本492ms 🇯🇵JP-3.112.29.244-0476
+[JP]  494.5ms  trojan    assuring-skink.rooster465.autos:443  JP41 日本494ms 🇯🇵JP-176.34.5.100-0194
+[JP]  495.7ms  trojan    normal-macaque.rooster465.autos:443  JP42 日本495ms 🇯🇵JP-18.183.212.83-014
+[JP]  497.6ms  trojan    comic-poodle.rooster465.autos:443  JP43 日本497ms 🇯🇵JP-54.249.36.167-018
+[JP]  498.5ms  trojan    legible-ram.rooster465.autos:443  JP44 日本498ms 🇯🇵JP-18.176.52.171-014
+[JP]  502.1ms  trojan    winning-marten.rooster465.autos:443  JP45 日本502ms 🇯🇵JP-54.65.177.190-018
+[JP]  503.6ms  vmess     168.138.43.75:80  JP46 日本503ms JP 🇯🇵 | @Raydikalx | A
+[US]   26.1ms  ss        15.204.247.206:4444  US47 美国26ms 🇺🇸US-15.204.247.206-02
+[US]   41.7ms  ss        64.74.163.69:18766  US48 美国41ms 🇺🇸US-64.74.163.69-0104
+[US]   61.2ms  vmess     38.91.107.49:18000  US49 美国61ms US 🇺🇸 | @Raydikalx | 3
+[US]   72.5ms  vmess     38.110.1.246:18000  US50 美国72ms US 🇺🇸 | @Raydikalx | 2
+[US]   86.6ms  vless     172.245.253.16:443  US51 美国86ms 未知 VLESS-221 | free-no
+[US]  189.7ms  vmess     67.220.95.3:18000  US52 美国189ms US 🇺🇸 | @Raydikalx | 3
+[US]  310.2ms  trojan    165.215.250.14:443  US53 美国310ms EPODONIOS
+[US]  411.3ms  vless     199.232.78.159:443  US54 美国411ms EPODONIOS
+[US]  447.9ms  ss        103.11.76.248:28679  US55 美国447ms 未知 SS-46 | free-nodes
+[US]  589.1ms  vless     vpn.kovira.site:443  US56 美国589ms 美国+CloudFlare节点
+[US]  590.9ms  vless     uae.unixzone.us:22573  US57 美国590ms 🇦🇪 www.v2nodes.com vle
+[US]  778.9ms  vless     199.232.78.159:443  US58 美国778ms EPODONIOS
+[US]  896.3ms  vless     199.232.78.159:443  US59 美国896ms EPODONIOS
+[US] 1238.3ms  vless     170.114.45.6:8443  US60 美国1238ms 未知 VLESS-223 | free-no
